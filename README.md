@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-Atividades referente à Unidade I de Programação Orientada à Objetos.
+Exercícios referente à Unidade I de Programação Orientada à Objetos.
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@ Atividades referente à Unidade I de Programação Orientada à Objetos.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/tntnT5S.png" width="80%">
 </p>
 
-> Atividade realizada no dia 14 de Setembro de 2025
+> Exercício realizado no dia 14 de Setembro de 2025
 
 ## 🚀 Linguagens
 
-Essa atividade foi realizada com as seguintes linguagens:
+Esse exercício foi realizado com as seguintes linguagens:
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
