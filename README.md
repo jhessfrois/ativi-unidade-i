@@ -32,17 +32,22 @@ Essa atividade foi realizada com as seguintes linguagens:
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## 📖 Funcionalidades
+## 📖 Atividades
 
-- Cadastro de clientes  
-- Criação de pedidos com múltiplas pizzas  
-- Alteração de pedidos existentes  
-- Relatório de vendas (sabores mais pedidos, faturamento e conexões entre sabores)  
-- Cálculo de frete (baseado em distância e quantidade de pizzas) 
+- Exercício 1: Classe Círculo
+- Exercício 2: Classe Pessoa
+- Exercício 3: Classe Livro
+- Exercício 4: Classe Retângulo
+- Exercício 5: Classe Animal
+- Exercício 6: Classe Produto
+- Exercício 7: Classe Triângulo
+- Exercício 8: Classe Conta Bancária
+- Exercício 9: Classe Carro
+- Exercício 10: Classe Funcionário
 
 ## 💻 Objetivo
 
-Colocar em prática conceitos de **Programação Orientada a Objetos (POO)**, utilizando Java para desenvolver um sistema de pizzaria completo, com cadastro, pedidos, relatórios e cálculo de frete.
+Colocar em prática tudo o que aprendi no decorrer das aulas da Unidade I de Programação Orientada à Objetos.
 
 ## **🤍 Contato**
 
