@@ -20,7 +20,7 @@ Atividades referente à Unidade I de Programação Orientada à Objetos.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/PhPlS11.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/tntnT5S.png" width="80%">
 </p>
 
 > Atividade realizada no dia 14 de Setembro de 2025
